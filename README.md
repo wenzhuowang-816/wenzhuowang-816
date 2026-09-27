@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wenzhuo__wang%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:wenzhuo_wang@outlook.com)
+[![Email](https://img.shields.io/badge/Email-wenzhuo__wang%40outlook.com-181717?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:wenzhuo_wang@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-wenzhuowang--816-181717?style=flat-square&logo=github)](https://github.com/wenzhuowang-816)
 
 
