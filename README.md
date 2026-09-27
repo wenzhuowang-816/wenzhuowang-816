@@ -8,15 +8,15 @@
 
 ---
 
-### 🎓 About Me
+### About Me
 
-- 🏛️ Study at **The University of Chicago**, working on **computer science**
-- 📈 Research interests: **Macro-Finance**
-- 📬 Reach me at **wenzhuo_wang@outlook.com**
+-  Study at **The University of Chicago**, working on **computer science**
+-  Research interests: **Macro-Finance**
+-  Reach me at **wenzhuo_wang@outlook.com**
 
 ---
 
-### 🛠️ Toolkit
+### Skill
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 🤝 Connect
+### Connect
 
 <div align="center">
 
