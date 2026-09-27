@@ -10,10 +10,8 @@
 
 ### 🎓 About Me
 
-- 🏛️ Pre-doc at **The University of Chicago**, working on **macro-finance**
-- 📈 Research interests: **heterogeneous-agent macro (HANK)**, **non-homothetic preferences**, and monetary economics
-- 🧮 Computational methods: value function iteration, endogenous grid method, projection & perturbation (Reiter), MIT shocks, **sequence-space Jacobians**, and continuous-time **HJB** (finite difference / semi-Lagrangian)
-- 🤖 Exploring **reinforcement learning × macro-finance**
+- 🏛️ Study at **The University of Chicago**, working on **computer science**
+- 📈 Research interests: **Macro-Finance**
 - 📬 Reach me at **wenzhuo_wang@outlook.com**
 
 ---
@@ -28,9 +26,8 @@
 
 | Area | Tools |
 | :--- | :--- |
-| **Quant & Data** | Python (NumPy, pandas, SciPy), R, MATLAB |
-| **High-Performance Computing** | C++, C |
-| **Econometrics** | Stata, EViews |
+| **Quant** | C++/C, Python, R, MATLAB |
+| **Econometrics** | Stata |
 | **Writing** | LaTeX, Markdown |
 
 ---
@@ -42,6 +39,5 @@
 [![Email](https://img.shields.io/badge/Email-wenzhuo__wang%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:wenzhuo_wang@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-wenzhuowang--816-181717?style=flat-square&logo=github)](https://github.com/wenzhuowang-816)
 
-![Profile Views](https://komarev.com/ghpvc/?username=wenzhuowang-816&color=3b82f6&style=flat-square&label=Profile+Views)
 
 </div>
