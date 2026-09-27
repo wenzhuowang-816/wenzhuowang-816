@@ -2,7 +2,7 @@
 
 # Hi, I'm Wenzhuo Wang 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Macro-Finance+Researcher;University+of+Chicago;Asset+Pricing+%C2%B7+Monetary+Economics;Turning+data+into+economic+insight)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Pre-doc+in+Macro-Finance;University+of+Chicago;HANK+%C2%B7+Heterogeneous-Agent+Macro;Computational+Methods+%C2%B7+RL+%C3%97+Macro-Finance)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,10 @@
 
 ### 🎓 About Me
 
-- 🏛️ Based at **The University of Chicago**, Chicago
-- 📈 Passionate about **Macro-Finance**, asset pricing, and monetary economics
-- 🔬 Interested in empirical methods: time series, panel data, and causal inference
+- 🏛️ Pre-doc at **The University of Chicago**, working on **macro-finance**
+- 📈 Research interests: **heterogeneous-agent macro (HANK)**, **non-homothetic preferences**, and monetary economics
+- 🧮 Computational methods: value function iteration, endogenous grid method, projection & perturbation (Reiter), MIT shocks, **sequence-space Jacobians**, and continuous-time **HJB** (finite difference / semi-Lagrangian)
+- 🤖 Exploring **reinforcement learning × macro-finance**
 - 📬 Reach me at **wenzhuo_wang@outlook.com**
 
 ---
@@ -21,32 +22,16 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,matlab,latex,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,r,matlab,latex,git,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
 | Area | Tools |
 | :--- | :--- |
-| **Quant & Data** | Python (pandas, NumPy, statsmodels), R, MATLAB |
+| **Quant & Data** | Python (NumPy, pandas, SciPy), R, MATLAB |
+| **High-Performance Computing** | C++, C |
 | **Econometrics** | Stata, EViews |
 | **Writing** | LaTeX, Markdown |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wenzhuowang-816&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenzhuowang-816&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=wenzhuowang-816&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
